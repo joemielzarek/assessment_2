@@ -1,0 +1,7 @@
+CREATE DATABASE mutoo;
+
+CREATE TABLE animals (
+    id serial PRIMARY KEY,
+    name varchar(100),
+    quantity integer
+);

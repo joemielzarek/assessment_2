@@ -1,0 +1,17 @@
+body {
+  font-family: helvetica;
+}
+
+td {
+  padding: 5px;
+  margin: 5px;
+}
+
+th {
+  padding: 5px;
+  margin: 5px;
+}
+
+#animalName {
+  margin-bottom: 20px;
+}
